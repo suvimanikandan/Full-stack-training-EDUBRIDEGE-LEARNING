@@ -1,4 +1,4 @@
-# Full-stack-training-EDUBRIDEGE-LEARNING
+# Full-stack-training-EDUBRIDGE-LEARNING
 Edubridge learning -full stack certification  
 :round_pushpin:day-1[30/12/22] Module 1:Introduction and orientation of students  
    ✔️ABout edubridge platform  
@@ -11,7 +11,15 @@ Edubridge learning -full stack certification
    
  📍Module 2:Referal and session (LA)  
  ✔️How to refer friends   
- ✔️On side and carreer acadey side    
+ ✔️On side and carreer academy side    
  ✔️how to referal friend status check    
- ✔️how to referal and earn use this platform    
+ ✔️how to referal and earn use this platform     
+ 
+ 📍Module 3:Assesment Guide(LA)   
+ about account creation    
+ 1)hacker rank  
+ 2)           
+ 3)       
+ 4)      
+ 
  
