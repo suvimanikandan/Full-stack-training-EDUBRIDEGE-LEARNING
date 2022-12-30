@@ -5,13 +5,13 @@ Edubridge learning -full stack certification
    ✔️About to use this platform  
    ✔️how to ue effectively   
    ✔️Resume building  
-   ✔️Each of the specific buttons described like:mycourses,assesmnets,.. 
+   ✔️Each of the specific buttons described like:mycourses,assesmnets,..    
    ✔️small quiz   
    
    
  📍Module 2:Referal and session (LA)  
- ✔️How to refer friends 
- ✔️On side and carreer acadey side  
- ✔️how to referal friend status check  
- ✔️how to referal and earn use this platform  
+ ✔️How to refer friends   
+ ✔️On side and carreer acadey side    
+ ✔️how to referal friend status check    
+ ✔️how to referal and earn use this platform    
  
