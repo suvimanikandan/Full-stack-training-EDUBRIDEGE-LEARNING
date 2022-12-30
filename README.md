@@ -17,7 +17,7 @@ Edubridge learning -full stack certification
  
  📍Module 3:Assesment Guide(LA)   
  about account creation    
- 1)hacker rank  
+ 1)hacker rank    #todays assignments-create account in hacker earth and hacker rank  
  2)           
  3)       
  4)      
