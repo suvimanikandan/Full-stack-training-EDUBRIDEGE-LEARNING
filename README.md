@@ -23,3 +23,21 @@ Edubridge learning -full stack certification
  4)      
  
  
+day -2  
+commpetitive programming platfform 
+hacker rank   
+hacker earth  
+top coders   
+code chef   
+code forces  
+ 
+do select platform provide by capegemeni    
+10all  questions are unique  
+2)there are testcase is given 
+
+  Introduction to java programming
+Introdution to java  
+->java is a programming language and a omputing platform for application development  
+->it was first released by sun microsystem in 1995 and later aquired by oracle corporation  
+->java is an object oriented, class based,concurent,secure  and general -purpose computer language  
+->wora write only run anywhere and its platform
