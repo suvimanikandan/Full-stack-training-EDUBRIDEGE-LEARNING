@@ -31,13 +31,69 @@ top coders
 code chef   
 code forces  
  
-do select platform provide by capegemeni    
-10all  questions are unique  
-2)there are testcase is given 
+do select platform provide by  capegemeni     
+1)all  questions are unique   
+2)there are testcase is given   
 
-  Introduction to java programming
-Introdution to java  
-->java is a programming language and a omputing platform for application development  
-->it was first released by sun microsystem in 1995 and later aquired by oracle corporation  
-->java is an object oriented, class based,concurent,secure  and general -purpose computer language  
-->wora write only run anywhere and its platform
+  Introduction to java programming   
+Introdution to java     
+->java is a programming language and a omputing platform for application development    
+->it was first released by sun microsystem in 1995 and later aquired by oracle corporation    
+->java is an object oriented, class based,concurent,secure  and general -purpose computer language    
+->wora write only run anywhere and its platform  
+
+
+
+Java architecture    
+1)java architecture combines the process of compilation and interpretation    
+2)three main components are   
+   ->JVM  
+   ->JRE   
+   ->JDK     
+   
+Java component -jvm  
+->java stands for java virtual machine,which is used to interpret an entire program line by line  
+->java following tasks
+->class loader
+->verify code  -byte code verifier  
+->execution engine    
+
+class loader ---->byte code verifier  ----->execution engine  
+
+JAVA component JRE  
+->JRE stands for java runtime environment  
+->it plays a keyrole while executing any java application    
+
+JAva component -jDK  
+->jdk stands for java devlopment kit  
+->in order to create  
+
+->It is a collection of tools that together allow the devlopment of applications  and provide a runtime environment  
+JRE  ----> jvm+java class library 
+
+
+->java platform edition  
+-JME(java micro edition)-devleop for mobile phones  
+-JSE(java standard edition) -GUI based database access,networking and security  
+-JEE(java enterprise edition)-enterprise platfrom  which is mainy used to devlop enterprise applications  
+
+
+Applications of java 
+1)standalone application- standalone applications are also known as desktop applications  2) web application -an application that runs on the server side and creates a dynamic page is called web application  
+3) enterprise application- an application that is distrubuted in nature such as banking applications etc is called an enterprise appliation  
+4) 4)mobbile application used for mobile devices  
+
+real world appliations of java:
+1)hadoop
+2)nasa using java world winds allow you to zoom   
+3)self driving cars ->combination of AI+IOT  using java
+   
+   
+   pouplar java editors   
+   1)nrml  
+   2)notepad   
+   2)netbeans   
+  4)eclipse   
+  
+  Java installation  
+  
